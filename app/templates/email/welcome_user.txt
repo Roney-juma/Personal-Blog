@@ -1,0 +1,7 @@
+Hello {{user.username}}
+Welcome to My Blog-spot!
+Start your blogging n journey today with us by writing your first blog. Also get access to more quotes
+
+Regards,
+
+Roney Juma
